@@ -1,6 +1,6 @@
-<a href="https://simhac.pythonanywhere.com"># Shadow-Shutter</a>
+# Shadow-Shutter
 
-Shadow Shutter studios is a state-of-art Template photography website. Here at Shadow Shutter studios, we help you capture and relive the best memories in your life.
+<a href="https://simhac.pythonanywhere.com">Shadow Shutter Studios</a> is a state-of-art Template photography website. Here at Shadow Shutter studios, we help you capture and relive the best memories in your life.
 
 ## Features
 
